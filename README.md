@@ -21,10 +21,9 @@ $ npm run generate
 
 - Add Razorpay Key Id and Key Secret in ```function->index.js```
 
-- Add Razorpay Key Id in ```index.vue```
+- Add Razorpay Key Id and web service urls in ```index.vue```
 
 - Setup your firebase project and add project id in ```.firebaserc``` file
 
-- Add web service urls in ```index.vue```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
