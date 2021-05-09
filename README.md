@@ -1,4 +1,4 @@
-# razorpay-nuxtjs
+# Razorpay integration with Nuxtjs
 
 ## Build Setup
 
